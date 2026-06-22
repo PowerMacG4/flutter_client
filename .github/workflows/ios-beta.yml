@@ -1,4 +1,4 @@
-name: iOS Beta TestFlight Build
+name: iOS Beta ipa Build(unofficial)
 
 on:
   workflow_dispatch:
